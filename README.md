@@ -9,7 +9,7 @@ It will even **prompt you to install any missing dependencies** automatically, m
 
 ---
 
-## ✨ Features
+##  Features
 
 * **One syntax for everything** – no more hunting down obscure tool options
 * **Automatic dependency detection & install prompts** – so you can focus on your work
