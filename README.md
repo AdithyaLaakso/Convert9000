@@ -17,6 +17,21 @@ It will even **prompt you to install any missing dependencies** automatically, m
 * **Simple defaults** – makes the most obvious conversion easy
 * *(Coming soon)* **Globs & regex support** for batch conversions
 
+##  Installation
+
+1. Download the script
+    ```bash
+    git clone https://github.com/AdithyaLaakso/Convert9000
+    cd Convert9000
+    mkdir -p ~/Scripts
+    cp convert.zsh ~/Scripts/
+    ```
+2. Add this to your .zshrc
+    ```bash
+    alias con ~/Scripts/convert.zsh
+    ```
+3. See usage
+
 ---
 
 ## 🚀 Usage
